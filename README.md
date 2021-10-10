@@ -1,0 +1,2 @@
+# frequentist_vs_bayesian_regression
+Comparing frequentist regression and bayesian regression
